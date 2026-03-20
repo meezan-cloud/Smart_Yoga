@@ -1,9 +1,3 @@
-# Hi there, I'm Neha Nala! 👋
-### AI & Machine Learning Student | Python Developer | IoT Enthusiast
-
-I am passionate about building intelligent systems that solve real-world problems. My work ranges from Computer Vision and Deep Learning to Embedded Systems and Predictive Analytics.
-
----
 
 # 🧘‍♀️ Smart Yoga  
 ### AI-Powered Pose Detection & Recommendation System
