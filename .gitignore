@@ -1,9 +1,11 @@
-﻿backend/dataset/**
-backend/live_dataset/**
-backend/uploads/**
+backend/dataset/
+backend/live_dataset/
 backend/models/
-*.pkl
-temp/**
+backend/uploads/
+
+temp/
 venv/
 __pycache__/
+
+*.pkl
 *.db
